@@ -25,7 +25,7 @@ A powerful Discord bot that logs server activities.
 
 ```bash
  git clone https://github.com/Kryvex777/hexa-logs-bot.git
-cd hexa-log-bot
+cd hexa-logs-bot
 pip install -r requirements.txt
 python main.py
 
